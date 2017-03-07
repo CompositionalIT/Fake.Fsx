@@ -1,5 +1,5 @@
 module Fake
-#r "./packages/FAKE/tools/FakeLib.dll"
+#r "./../../../packages/FAKE/tools/FakeLib.dll"
 open Fake
 open Fake.FscHelper
 open System.IO
